@@ -1,0 +1,19 @@
+{
+  "name": "sencha930511",
+  "owner": {
+    "name": "SenCha930511"
+  },
+  "plugins": [
+    {
+      "name": "pi-model-sync",
+      "description": "Route subagent models by the spawning session's current model: omp native subagents and pi-subagent's subagent tool, managed via /model-sync.",
+      "version": "0.2.0",
+      "source": "https://github.com/SenCha930511/pi-model-sync",
+      "author": {
+        "name": "SenCha930511"
+      },
+      "homepage": "https://github.com/SenCha930511/pi-model-sync",
+      "categories": ["extensions", "model-routing"]
+    }
+  ]
+}
