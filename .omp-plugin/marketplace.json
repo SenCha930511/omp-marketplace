@@ -7,12 +7,12 @@
     {
       "name": "pi-model-sync",
       "description": "Route subagent models by the spawning session's current model: omp native subagents and pi-subagent's subagent tool, managed via /model-sync.",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "source": {
         "source": "github",
         "repo": "SenCha930511/pi-model-sync",
-        "ref": "v0.4.1",
-        "sha": "eae46ab73b56624e4723033433e99be33ab1dcb3"
+        "ref": "v0.4.2",
+        "sha": "4c0486e9cad7b7d5c55250906d3b2798bc019582"
       },
       "author": {
         "name": "SenCha930511"
